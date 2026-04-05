@@ -15,9 +15,9 @@
 
 <br/>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/surajkumarhazra)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/surajkumarhazra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:surajkumarhazra@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/Suraj-kr-hazra02)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/Suraj-kr-hazra02)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:Suraj-kr-hazra02@gmail.com)
 
 </div>
 
@@ -124,12 +124,12 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajkumarhazra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumarhazra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Suraj-kr-hazra02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kr-hazra02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=surajkumarhazra&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Suraj-kr-hazra02&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -139,7 +139,7 @@ me.say_hi()
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=surajkumarhazra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-kr-hazra02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
 
 </div>
 
@@ -149,7 +149,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Suraj Kumar Hazra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=surajkumarhazra&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Suraj Kumar Hazra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj-kr-hazra02&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -159,7 +159,7 @@ me.say_hi()
 
 ### 💡 *"Code is not just instructions for machines — it's a canvas for creativity."*
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=surajkumarhazra&icon=6&color=6)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Suraj-kr-hazra02&icon=6&color=6)](https://visitcount.itsvg.in)
 
 ⭐ **If you find my work interesting, feel free to star my repos!** ⭐
 
