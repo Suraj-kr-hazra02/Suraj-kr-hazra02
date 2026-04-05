@@ -1,12 +1,14 @@
 <div align="center">
 
 ```
-░██████╗██╗   ██╗██████╗░░█████╗░     ██╗  ██╗██╗   ██╗███╗░░░███╗░█████╗░██████╗░
-██╔════╝██║   ██║██╔══██╗██╔══██╗     ██║░██╔╝██║   ██║████╗░████║██╔══██╗██╔══██╗
-╚█████╗░██║   ██║██████╔╝███████║     ██║██╔╝░██║   ██║██╔████╔██║███████║██████╔╝
-░╚═══██╗██║   ██║██╔══██╗██╔══██║     ███████╗██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
-██████╔╝╚██████╔╝██║  ██║██║  ██║     ╚════██║╚██████╔╝██║░╚═╝░██║██║  ██║██║  ██║
-╚═════╝░░╚═════╝░╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+ ██████╗ ██╗   ██╗██████╗  █████╗      ██╗
+██╔════╝ ██║   ██║██╔══██╗██╔══██╗     ██║
+╚█████╗  ██║   ██║██████╔╝███████║     ██║
+ ╚═══██╗ ██║   ██║██╔══██╗██╔══██║██   ██║
+██████╔╝ ╚██████╔╝██║  ██║██║  ██║╚█████╔╝
+╚═════╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+
+
 ```
 
 # 👋 Hi, I'm **Suraj Kumar Hazra**
@@ -118,32 +120,9 @@ me.say_hi()
 
 </div>
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suraj-kr-hazra02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-kr-hazra02&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Suraj-kr-hazra02&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Suraj-kr-hazra02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
